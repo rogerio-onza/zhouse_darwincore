@@ -1,4 +1,4 @@
-# 🌿 ZHOUSE DwC extração e padronização
+# 🌿 ZHOUSE  - DwC extração e padronização
 
 Script R para extração, validação e padronização de dados taxonômicos para o formato Darwin Core (DwC).
 

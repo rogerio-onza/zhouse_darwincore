@@ -1,4 +1,4 @@
-# 🌿 ZHOUSE  - DwC extração e padronização
+# 🌿 ZHOUSE  - DarwinCore 
 
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![Darwin Core](https://img.shields.io/badge/Standard-Darwin_Core-75B375?style=for-the-badge&logoColor=black)](#)

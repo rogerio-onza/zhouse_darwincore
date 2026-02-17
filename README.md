@@ -1,5 +1,12 @@
 # 🌿 ZHOUSE  - DwC extração e padronização
 
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
+[![Darwin Core](https://img.shields.io/badge/Standard-Darwin_Core-75B375?style=for-the-badge&logoColor=black)](#)
+[![Licença](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![OpenAI Codex](https://img.shields.io/badge/AI_Assisted-Codex-00A67E?style=for-the-badge&logo=openai&logoColor=white)](#)
+[![MiniMax](https://img.shields.io/badge/Optimized_by-MiniMax-E93A77?style=for-the-badge&logo=robot&logoColor=white)](#)
+
+
 Script R para extração, validação e padronização de dados taxonômicos para o formato Darwin Core (DwC).
 
 ## 📝 Descrição

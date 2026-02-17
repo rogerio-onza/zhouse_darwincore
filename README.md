@@ -4,7 +4,7 @@
 [![Darwin Core](https://img.shields.io/badge/Standard-Darwin_Core-75B375?style=for-the-badge&logoColor=black)](#)
 [![Licença](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![OpenAI Codex](https://img.shields.io/badge/AI_Assisted-Codex-00A67E?style=for-the-badge&logo=openai&logoColor=white)](#)
-[![MiniMax](https://img.shields.io/badge/Optimized_by-MiniMax-E93A77?style=for-the-badge&logo=robot&logoColor=white)](#)
+[![MiniMax](https://img.shields.io/badge/Optimized_by-MiniMax-E73562?style=for-the-badge&logo=minimax&logoColor=white)](#)
 
 
 Script R para extração, validação e padronização de dados taxonômicos para o formato Darwin Core (DwC).
